@@ -1,2 +1,2 @@
-# LandREgistry
-Python Land Registry
+# LandRegistry
+A LandRegistry
